@@ -1,0 +1,44 @@
+{
+  "todos": [
+    {
+      "id": 2,
+      "text": "Typescript",
+      "done": true
+    },
+    {
+      "id": 3,
+      "text": "TailwindCss",
+      "done": true
+    },
+    {
+      "text": "Reactjs",
+      "done": false,
+      "id": 4
+    },
+    {
+      "text": "GIT",
+      "done": false,
+      "id": 6
+    },
+    {
+      "text": "Php",
+      "done": false,
+      "id": 8
+    },
+    {
+      "text": "CSS3",
+      "done": true,
+      "id": 9
+    },
+    {
+      "text": "Ruby",
+      "done": false,
+      "id": 10
+    },
+    {
+      "text": "TEST",
+      "done": true,
+      "id": 11
+    }
+  ]
+}

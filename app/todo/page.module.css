@@ -1,0 +1,36 @@
+.h2 {
+    color: purple;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.container {
+  max-width: 800px;
+  margin: 2rem auto;
+}
+
+.todoItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem;
+  background-color: #f0f0f0;
+  margin-bottom: 0.5rem;
+  border-radius: 5px;
+}
+
+.todoItem.done {
+  text-decoration: line-through;
+  opacity: 0.6;
+}
+
+.button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.button.delete {
+  color: red;
+  margin-left: 1rem;
+}
