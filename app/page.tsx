@@ -22,8 +22,8 @@ function Home() {
       </div>
       <Header text="Todo List" name="" />
       {/* <Counter /> */}
-      <Link className="link link-success" href="/todo2">Todo list (Add, Delete && Update) with "React Query" methode</Link>
-      <Link className="link link-info" href="/todo-react-query">Todo list (Add, Delete && Update) with simple methode</Link>
+      <Link className="link link-success" href="/todo2">Todo list (Add, Delete && Update) with "React Query" method</Link>
+      <Link className="link link-info" href="/todo-react-query">Todo list (Add, Delete && Update) with simple method</Link>
     </main>
   );
 }
